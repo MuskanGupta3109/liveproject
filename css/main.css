@@ -1,0 +1,461 @@
+/* body{
+    background: green;
+} */
+.a{
+    background: #82ae46 !important;
+    padding:0px !important;
+
+}
+.b{
+    color: white;
+}
+.d{
+    color:#82ae46;
+    font-weight: 800;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+/* .n1{
+    position: fixed;
+    top:0;
+    right: 0;
+    left: 0;
+} */
+
+.e{
+    font-size: 11px;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 400;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 1 !important;
+}
+.s1{
+    padding: 0px;
+}
+.s5{
+    /*transform: translate3d(-3789px, 0px, 0px); transition: all 0s ease 0s; width: 7580px;
+    transform: scale(1.1);*/
+
+}
+
+.k{
+    top:25%;
+}
+
+.k h3{
+    font-size: 8vw;
+    color: #fff;
+    line-height: 1.3;
+    font-weight: 400;
+    font-family: "Amatic SC", cursive;
+}
+.k h5{
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #fff;
+}
+.p1{
+    background: #82ae46;
+}
+
+/* .e .n:hover ul{
+    display: block;
+    height: 400px;
+    margin-left: 10%;
+    padding: 0 100px 10px 10px;
+    position: fixed;
+    background: #ececec;
+    box-shadow:1px 1px 4px 1px rgba(185, 11, 11, 0.5);
+    transition: 1s;
+}    */
+.c1{
+    border-radius: 10px;
+    /* background: #82ae46; */
+    /* fill:#82ae; */
+    border: none;
+}
+/* .c3:hover{
+    background: yellowgreen;
+   opacity: 0.9;
+} */
+.s2{
+    padding-bottom: 16px;
+    padding-top: 39px;
+}
+.g1{
+    /* margin-top: -55px; */
+}
+/* .w2{
+    background-image: url(https://themewagon.github.io/vegefoods/images/category.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+} */
+.c1{
+    color: #82ae46;
+    background: none;
+}
+.c2{
+    transition: 1s;
+}
+.c2:hover{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    transform: scale(1.1);
+
+
+}
+/* .d1{
+    background-image: url(https://themewagon.github.io/vegefoods/images/bg_3.jpg);
+    background-size: cover;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+} */
+.d1{
+    background-image: url(https://themewagon.github.io/vegefoods/images/bg_3.jpg);
+    background-size: cover;
+    /* height:100%; */
+    width:100%;
+    background-position: center;
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    color:white;
+    /* padding-top: 102px; */
+    padding: 300px 0px;
+}
+.d2{
+    position:relative;
+    top: -180px;
+}
+
+/* .overlay-right .fa{
+    cursor: pointer;
+    background-color: rgba(108, 49, 49, 0.505);
+    color: #000;
+    height: 35px;
+    width:35px;
+    font-size: 20px;
+    padding: 7px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.button{
+    position: relative;
+    z-index: 1;
+    }
+.overlay-right{
+    position: absolute;
+    z-index: 2;
+    top: -140px;
+    display: block;
+    left: 59px;
+    width:20px;
+    }
+    .r1:hover .overlay-right{ 
+    display:none;
+    /* margin-left: -20%; */
+    /* transition: 0.5s;
+    }
+    .r1:hover .r2{
+        position: relative;
+        bottom: 31px;
+        top: -143px;
+    } */ 
+    /* .b:hover .a{
+        position: relative;
+        top: -300px;
+    } */
+
+    .overlay-right{
+        position: absolute;
+        display: none;
+        /* background: #82ae46;
+        color: #f2eaea; */
+        fill:#82ae46;
+    }
+    .r1:hover .overlay-right{ 
+        display:block;
+        /* margin-left: -20%; */
+         transition: 0.5s;
+        }
+    .overlay-right button{
+        background: #82ae46 !important;
+    }
+    .overlay-right button i:hover{
+        background: palevioletred;
+        fill:brown;
+    }
+
+footer{
+    background: #82ae46;
+    color: #ececec;
+}
+
+@media(max-width: 700px){
+    .f{
+        background: #82ae46;
+    }
+    .k{
+        top: 15px;
+
+    }
+    .k h3{
+       font-size: 20px;
+       line-height: 1;
+    }
+    .t5{
+        margin-left: -2px;
+    }
+}
+
+@media(max-width: 400px){
+    .k{
+        top: 30px;
+
+    }
+    .k h3{
+       font-size: 20px;
+       /* line-height: 1; */
+    }
+    .n1 li{
+        margin-left: 12px !important;
+    }
+}
+
+/* about page css */
+
+.t1{
+    background-image: url(https://themewagon.github.io/vegefoods/images/bg_1.jpg);
+    background-size: cover;
+    /* height:100%; */
+    width:100%;
+    background-position: center;
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    color:white;
+    /* padding-top: 102px; */
+    padding: 415px 0px;
+     transition: 1s;
+}
+.t1:hover{
+    transform: scale(1.1);
+    opacity: 0.5;
+}
+.s6{
+    transition: 1s;
+}
+.s6:hover{
+    transform: scale(1.1);
+    opacity: 0.5;
+}
+
+
+.t2{
+    background: #f7f6f2;
+    position: relative;
+    top: -234px;
+}
+.t3{
+    font-family: "Poppins", Arial, sans-serif;
+    /* background: #f7f6f2; */
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: gray;
+}
+.t7{
+    height: 100%;
+}
+.t8{
+    height: 54px;
+}
+
+.t5{
+    
+
+    background: #82ae46;
+    /* margin-right: -34px; */
+    margin-left: -24px;
+    /* width: 100%; */
+    height: 52px;
+    border-radius: 0px;
+}
+.t6{
+    
+        background-image: url(https://themewagon.github.io/vegefoods/images/bg_3.jpg);
+        background-size: cover;
+        /* height:100%; */
+        width:100%;
+        background-position: center;
+        /* background-size: cover; */
+        /* background-attachment: fixed; */
+        color:white;
+        /* padding-top: 102px; */
+        padding: 155px 0px;
+        opacity: 0.7;
+        margin-top: -234px;
+}
+.t10{
+    border-left: 1px solid;
+}
+.t11{
+    color: #82ae46;
+    font-size: 26px;
+    font-weight: 900;
+    position: relative;
+    left: -190px;
+    top: 51px;
+}
+ /* .c2:hover{
+    transform: scale(1.1);
+}    */
+
+@media(max-width: 750px){
+    .t9{
+        display: flex;
+       
+    }
+    .t5{
+        position: relative;
+    text-align: end;
+    top: -52px;
+    }
+    
+
+}
+/* blog page */
+.k1{
+    
+    text-align: center;
+    background: #ffffff;
+    color: gray;
+    font-family: "Poppins", Arial, sans-serif;
+    padding-bottom: 75px;
+    padding-left: 2px;
+    padding-right: 12px;
+}
+.k2{
+    
+    text-align: center;
+    background: #f7f6f2;
+    color: gray;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  .form-control{
+    border-radius: 0px;
+  }
+  /* blog page */
+  .z2{
+    color: gray;
+    font-family: "Poppins", Arial, sans-serif;
+  }
+  .o:hover{
+    color:#82ae46 !important;
+    /* background: #82ae46; */
+  }
+  .z3{
+    border-bottom: 1px solid #f2eaea;
+    padding-bottom: 9px;
+    list-style: none;
+
+  }
+  .tagcloud a {
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 4px 10px;
+    margin-bottom: 7px;
+    margin-right: 4px;
+    border-radius: 4px;
+    color: #000000;
+    border: 1px solid #ccc;
+    font-size: 11px;
+}
+
+/* shop page */
+.w1{
+    list-style: none;
+   
+}
+.w1 li{
+   
+    /* margin-top: 14px;margin-bottom: 14px; */
+    
+   
+    padding: 10px 25px;
+    
+
+}
+.w1 li a{
+    text-decoration: none;
+    color: #82ae46 !important;
+}
+
+.w1{
+    display: flex;
+    flex-direction: row;
+}
+.w3 a{
+    padding: 2px 2px;
+}
+.w3{
+   
+    background: #82ae46;
+    border-radius: 15px;
+    
+}
+
+.upbtn{
+    
+        animation: updown 2s ease-in-out infinite alternate-reverse both;
+    }
+
+    @keyframes updown{
+        0%{
+            transform:translate(0,-10px);
+        }
+        100%{
+            transform:translate(0,10px);
+        }
+        
+    }
+    .btnn{
+        z-index: -1;
+        display:block;
+    }
+
+    .btnn:before {
+        content: "";
+        position: absolute;
+        background: #383736;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: 100%;
+        z-index: 1;
+        -webkit-transition: top 0.09s ease-in;
+      }
+      .btnn:hover:before {
+        top: 0;
+      }
